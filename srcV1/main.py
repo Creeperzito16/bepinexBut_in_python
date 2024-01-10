@@ -35,4 +35,4 @@ try:
     input("[!] Pressione Enter para encerrar...\n")
 except KeyboardInterrupt:
     pass
-script_file.close()
+script_file.close() 

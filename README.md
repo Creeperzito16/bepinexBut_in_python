@@ -1,2 +1,3 @@
 # bepinexBut_in_python
+Bepin ex in python its not functiliziling please dont use bepinpython! #removed all codes........
 o velho bepinex mas com python.
